@@ -1,6 +1,6 @@
 ## Hello there
 
-My name is Britton, nice to meet you! I'm a Seattle/Tacoma based digital designer and front-end developer that's passionate about marketing and branding. I tend to be the guy that brings all three disciplines together to create amazing, new customer experiences.
+My name is Britton, nice to meet you! I'm a Seattle/Tacoma based digital designer and front-end developer that's passionate about marketing and branding. I bring design, development, and marketing together to create engaging customer experiences.
 
 
 ## About me
